@@ -1,0 +1,3 @@
+C:/Users/niall/CLionProjects/cpp5thofMayTestNiallMalcolm/cmake-build-debug/CMakeFiles/Solution.dir
+C:/Users/niall/CLionProjects/cpp5thofMayTestNiallMalcolm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/niall/CLionProjects/cpp5thofMayTestNiallMalcolm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
